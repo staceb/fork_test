@@ -1,3 +1,3 @@
 # fork_test
 
-hello..
+hello
